@@ -1,4 +1,4 @@
-# MacGyvr
+# MacGyvr™
 
 
 ###Public Repository
